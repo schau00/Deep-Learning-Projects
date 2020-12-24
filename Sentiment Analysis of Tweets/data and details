@@ -1,0 +1,3 @@
+Dataset : https://www.kaggle.com/kazanova/sentiment140
+Frameworks : Tensorflow. Keras
+Concepts : RNN, LSTM , NLP, Word Embeddings
