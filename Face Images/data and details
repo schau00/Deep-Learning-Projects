@@ -1,0 +1,2 @@
+Dataset : https://www.kaggle.com/kasikrit/att-database-of-faces
+Concepts : Applied Principal Component analysis to extract the orthonormal basis of face dataset and rebuild the face using the eigen vetor and the basis
